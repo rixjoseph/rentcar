@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html" style="color: white;">HOME</a>
+          <a class="nav-link active" aria-current="page" href="index.php" style="color: white;">HOME</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" style="color: white;">OFFERS</a>
@@ -38,10 +38,10 @@
       <form class="d-flex">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="Signup.html" style="color: white;">SIGN UP</a>
+                <a class="nav-link active" aria-current="page" href="Signup.php" style="color: white;">SIGN UP</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="Signin.html" style="color: white;">SIGN IN</a>
+                <a class="nav-link active" aria-current="page" href="Signin.php" style="color: white;">SIGN IN</a>
               </li>
           </ul>
       </form>

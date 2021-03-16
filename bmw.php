@@ -18,7 +18,7 @@
                             <div class="card-body">
                               <h5 class="card-title">BMW M2</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                              <a href="booking.php" class="btn btn-primary">Rent Now</a>
                             </div>
                           </div>
                           </td>
@@ -27,7 +27,7 @@
                             <div class="card-body">
                               <h5 class="card-title">BMW 2 SERIES</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                              <a href="booking.php" class="btn btn-primary">Rent Now</a>
                             </div>
                           </div></td>
                        
@@ -36,7 +36,7 @@
                             <div class="card-body">
                               <h5 class="card-title">BMW 4 SERIES</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                              <a href="booking.php" class="btn btn-primary">Rent Now</a>
                             </div>
                           </div></td>
                         </tr>
@@ -48,7 +48,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">BMW-M4</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Rent Now</a>
                                 </div>
                               </div>
                         </td>
@@ -58,7 +58,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">BMW-Z4</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Rent Now</a>
                                 </div>
                               </div>
                         </td>
@@ -68,7 +68,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">BMW-M6</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.html" class="btn btn-primary">Rent Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Rent Now</a>
                                 </div>
                               </div>
                         </td>

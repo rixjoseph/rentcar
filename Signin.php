@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SIGNUP</title>
+    <title>SIGN IN</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-light bg-dark">
   <div class="container-fluid">
@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html" style="color: white;">HOME</a>
+          <a class="nav-link active" aria-current="page" href="index.php" style="color: white;">HOME</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" style="color: white;">OFFERS</a>
@@ -49,45 +49,25 @@
   </div>
 </nav>
 <body>
-<center><h1><B>SIGNUP</B></h1></center>
+<center><h1>SIGN IN</h1></center> 
 <div class="container">
     <div class="row">
-    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-12 col-xxl-12">
-        <table class="table table-borderless">
-            <tr>
-                <td>Name</td>
-                <td><input type="text" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Course</td>
-                <td><input type="text" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Date Of Birth</td>
-                <td><input type="text" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Phone</td>
-                <td><input type="text" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Email</td>
-                <td><input type="text" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Password</td>
-                <td><input type="password" class="form-control"></td>
-            </tr>
-            <tr>
-                <td>Confrim Password</td>
-                <td><input type="Password" class="form-control"></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><button class="bt btn-outline-success">SIGN UP</button></td>
-            </tr>
-        </table>
-    </div>
+        <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-12 col-xxl-12">
+            <table class="table table-borderless">
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td><input type="password" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button class="btn btn-outline-success">SIGN IN</button></td>
+                </tr>
+            </table>
+        </div>
     </div>
 </div>
 </body>

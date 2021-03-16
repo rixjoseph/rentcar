@@ -16,10 +16,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html" style="color: white;">HOME</a>
+            <a class="nav-link active" aria-current="page" href="index.php" style="color: white;">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="bmw.html" style="color: white;">OFFERS</a>
+            <a class="nav-link" href="bmw.php" style="color: white;">OFFERS</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" style="color: white;" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -28,20 +28,20 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="#">BRAND</a></li>
               <li><a class="dropdown-item" href="#">MODEL</a></li>
-              <li><a class="dropdown-item" href="bmw.html">PREMIUM</a></li>
+              <li><a class="dropdown-item" href="bmw.php">PREMIUM</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="contact.html" tabindex="-1" aria-disabled="true" style="color: white;">CONTACT US</a>
+            <a class="nav-link active" href="contact.php" tabindex="-1" aria-disabled="true" style="color: white;">CONTACT US</a>
           </li>
         </ul>
         <form class="d-flex">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="Signup.html" style="color: white;">SIGN UP</a>
+                  <a class="nav-link active" aria-current="page" href="Signup.php" style="color: white;">SIGN UP</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="Signin.html" style="color: white;">SIGN IN</a>
+                  <a class="nav-link active" aria-current="page" href="Signin.php" style="color: white;">SIGN IN</a>
                 </li>
             </ul>
         </form>
